@@ -9,7 +9,7 @@ public class Money {
         this.currency = currency;
     }
 
-    protected String currency(){
+    public String currency(){
         return currency;
     }
 

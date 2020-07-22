@@ -1,5 +1,6 @@
 package test.java.guru.springframework;
 
+import main.java.guru.springframework.Money;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
